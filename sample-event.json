@@ -1,0 +1,9 @@
+{
+  "tenant": "demo",
+  "study": "wearable-study",
+  "participant": "p-001",
+  "session": "baseline",
+  "stream": "multimodal",
+  "provider": "synthetic",
+  "event_id": "event-001"
+}
